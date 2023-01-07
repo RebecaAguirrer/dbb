@@ -1,0 +1,17 @@
+[
+  {
+    "number": 1,
+    "name": "John",
+    "gender": "male"
+  },
+  {
+    "number": 2,
+    "name": "Maria",
+    "gender": "female"
+  },
+  {
+    "number": 3,
+    "name": "Sefa",
+    "gender": "male"
+  }
+]
